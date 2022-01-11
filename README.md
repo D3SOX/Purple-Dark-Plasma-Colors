@@ -8,8 +8,13 @@ A Plasma color theme inspired by the colors from the [ZorinOS purple dark theme]
 <sup>
 
 Icons used: [Suru+-Dark](https://github.com/gusbemacbe/suru-plus-dark)
-<br>
+
+</sup>
+
+<sup>
+
 Window Decorations used: [Sierra Breeze](https://github.com/kay0u/SierraBreeze)
+
 </sup>
 
 </div>
