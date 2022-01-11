@@ -22,3 +22,9 @@ Window Decorations used: [Sierra Breeze](https://github.com/kay0u/SierraBreeze)
 # 📥 Installation
 
 `mkdir -p ~/.local/share/color-schemes && cp PurpleDark.colors ~/.local/share/color-schemes`
+
+# 🧩 Recommended complementary projects
+
+- Discord theme: [Purple Dark Glass](https://github.com/D3SOX/Purple-Dark-Glass)
+- VSCode theme: [SynthWave '84](https://github.com/robb0wen/synthwave-vscode)
+- GTK theme: [ZorinOS purple dark theme](https://github.com/ZorinOS/zorin-desktop-themes/tree/master/ZorinPurple-Dark)
